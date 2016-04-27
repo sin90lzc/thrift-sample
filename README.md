@@ -95,7 +95,7 @@ Client（客户端层）：该层代码由thrift compiler生成。主要处理�
 对应客户端 ： com.dtc.sample.thrift.client.MultiSyncClient<br />
 
 
-关于thrift的相关文献：<br />
+<h2>关于thrift的相关文献：</h2>
 <a href="https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/">Apache Thrift - 可伸缩的跨语言服务开发框架 </a><br />
 
 <a href="http://thrift.apache.org/">Apache Thrift官网 </a>

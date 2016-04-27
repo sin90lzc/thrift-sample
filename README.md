@@ -2,7 +2,8 @@
 
 <h2>1. 在windows下thrift （java）环境的安装</h2>
 <h3>1.1 在apache thrift官网下载thrift complier（编译器）</h3>
-thrift complier用于解析thrift IDL(接口描述定义语言）文件，并生成thrift业务接口处理器processor，Iface业务接口，以及客户端代码。把下载的complier的exe程序设置到环境变量PATH下。complier下载地址：
+thrift complier用于解析thrift IDL(接口描述定义语言）文件，并生成thrift业务接口处理器processor，Iface业务接口，以及客户端代码。把下载的complier的exe程序设置到环境变量PATH下。
+<br />complier下载地址：
 http://www.apache.org/dyn/closer.cgi?path=/thrift/0.9.3/thrift-0.9.3.exe
 
 <h3>1.2 在thrift项目中引用thrift的 java库</h3>
